@@ -51,7 +51,7 @@ pyntcloud
 
 ### Dataset
 
-The details of used datasets can be found in [DATASET.md](https://github.com/yuxumin/PoinTr/blob/master/DATASET.md).
+The details of used datasets can be found in [DATASET.md](https://github.com/I2-Multimedia-Lab/RLGrid/blob/master/dataset/readme.md).
 
 
 
