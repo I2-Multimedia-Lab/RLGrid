@@ -74,6 +74,10 @@ python pretrain_treegan.py
 python train_RL_Agent.py
 ```
 
+### Pretrained model
+
+The pretrained model will be coming soon.
+
 ### Visualization
 
 Some Results on PCN Dataset
