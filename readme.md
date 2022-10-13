@@ -29,7 +29,7 @@ pyntcloud
 
 
 
-**Building Pytorch Extensions for Chamfer Distance, Earth Mover's Distance **
+#### Building Pytorch Extensions for Chamfer Distance, Earth Mover's Distance 
 
 *NOTE:* PyTorch >= 1.7 and GCC >= 4.9 are required.
 
