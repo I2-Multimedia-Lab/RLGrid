@@ -74,6 +74,8 @@ python pretrain_treegan.py
 python train_RL_Agent.py
 ```
 
+### Visualization
+
 Some Results on PCN Dataset
 
 ![results](https://github.com/MarkLiSS/RLGrid/blob/master/images/results.jpg)
